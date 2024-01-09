@@ -1,4 +1,4 @@
-# Radial Pattern Generator
+# Radial Pattern Generator:
 
 ## Description
 
