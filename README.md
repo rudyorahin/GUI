@@ -11,6 +11,12 @@ The Radial Pattern Generator is a Python application utilizing the Turtle graphi
 - Patterns are positioned in all four corners of the window.
 - Customizable number of shapes, size, and positioning.
 
+
+![Python](https://img.shields.io/badge/language-Python-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)
+![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 ## Requirements
 
 - Python 3.x
